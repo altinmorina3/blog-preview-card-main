@@ -103,4 +103,7 @@ a {
     padding: 15px;
     padding-bottom: 20px;
   }
+  .card h3 {
+    font-size: 22px;
+  }
 }
