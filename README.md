@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog preview card
+# Frontend Mentor - Blog Preview Card
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
 
