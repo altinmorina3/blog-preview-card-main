@@ -29,6 +29,11 @@ body {
   padding: 0 15px;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .card {
   border-radius: 20px;
   background-color: var(--white);
@@ -53,9 +58,7 @@ body {
   font-weight: 800;
   padding: 3px 8px;
   background-color: var(--yellow);
-  color: var(--black);
   display: inline-block;
-  text-decoration: none;
   border-radius: 3px;
   max-width: fit-content;
 }
